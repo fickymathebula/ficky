@@ -1,0 +1,7 @@
+C:\Users\fmathebu\source\repos\EmployeeRegister\EmployeeRegister.Domain\bin\Debug\netcoreapp2.2\EmployeeRegister.Domain.deps.json
+C:\Users\fmathebu\source\repos\EmployeeRegister\EmployeeRegister.Domain\bin\Debug\netcoreapp2.2\EmployeeRegister.Domain.dll
+C:\Users\fmathebu\source\repos\EmployeeRegister\EmployeeRegister.Domain\bin\Debug\netcoreapp2.2\EmployeeRegister.Domain.pdb
+C:\Users\fmathebu\source\repos\EmployeeRegister\EmployeeRegister.Domain\obj\Debug\netcoreapp2.2\EmployeeRegister.Domain.AssemblyInfoInputs.cache
+C:\Users\fmathebu\source\repos\EmployeeRegister\EmployeeRegister.Domain\obj\Debug\netcoreapp2.2\EmployeeRegister.Domain.AssemblyInfo.cs
+C:\Users\fmathebu\source\repos\EmployeeRegister\EmployeeRegister.Domain\obj\Debug\netcoreapp2.2\EmployeeRegister.Domain.dll
+C:\Users\fmathebu\source\repos\EmployeeRegister\EmployeeRegister.Domain\obj\Debug\netcoreapp2.2\EmployeeRegister.Domain.pdb

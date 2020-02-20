@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EmployeeRegister.Domain\EmployeeRegister.Domain.csproj" />
+    <ProjectReference Include="..\EmployeeRegister.Infrastructure\EmployeeRegister.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

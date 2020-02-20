@@ -1,0 +1,11 @@
+C:\Users\fmathebu\source\repos\EmployeeRegister\EmployeeRegister.Infrastructure\bin\Debug\netcoreapp2.2\EmployeeRegister.Infrastructure.deps.json
+C:\Users\fmathebu\source\repos\EmployeeRegister\EmployeeRegister.Infrastructure\bin\Debug\netcoreapp2.2\EmployeeRegister.Infrastructure.dll
+C:\Users\fmathebu\source\repos\EmployeeRegister\EmployeeRegister.Infrastructure\bin\Debug\netcoreapp2.2\EmployeeRegister.Infrastructure.pdb
+C:\Users\fmathebu\source\repos\EmployeeRegister\EmployeeRegister.Infrastructure\bin\Debug\netcoreapp2.2\EmployeeRegister.Domain.dll
+C:\Users\fmathebu\source\repos\EmployeeRegister\EmployeeRegister.Infrastructure\bin\Debug\netcoreapp2.2\EmployeeRegister.Domain.pdb
+C:\Users\fmathebu\source\repos\EmployeeRegister\EmployeeRegister.Infrastructure\obj\Debug\netcoreapp2.2\EmployeeRegister.Infrastructure.csprojAssemblyReference.cache
+C:\Users\fmathebu\source\repos\EmployeeRegister\EmployeeRegister.Infrastructure\obj\Debug\netcoreapp2.2\EmployeeRegister.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\fmathebu\source\repos\EmployeeRegister\EmployeeRegister.Infrastructure\obj\Debug\netcoreapp2.2\EmployeeRegister.Infrastructure.AssemblyInfo.cs
+C:\Users\fmathebu\source\repos\EmployeeRegister\EmployeeRegister.Infrastructure\obj\Debug\netcoreapp2.2\EmployeeRegister.Infrastructure.csproj.CopyComplete
+C:\Users\fmathebu\source\repos\EmployeeRegister\EmployeeRegister.Infrastructure\obj\Debug\netcoreapp2.2\EmployeeRegister.Infrastructure.dll
+C:\Users\fmathebu\source\repos\EmployeeRegister\EmployeeRegister.Infrastructure\obj\Debug\netcoreapp2.2\EmployeeRegister.Infrastructure.pdb
