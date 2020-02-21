@@ -13,6 +13,7 @@ namespace EmployeeRegister.Infrastructure.Repository
         {
         }
 
-        public virtual DbSet<Employees> Employees { get; set; }
+        public DbSet<Employees> Employees { get; set; } 
+
     }
 }

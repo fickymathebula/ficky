@@ -7,6 +7,6 @@ namespace EmployeeRegister.Service.ServiceModels
 {
     public class EmployeeResponse
     {
-        public Employees[] EmpResponse { get; set; }
+        public List<EmployeeListDto> EmployeeResponseDto { get; set; } 
     }
 }

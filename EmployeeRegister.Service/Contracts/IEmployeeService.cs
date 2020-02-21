@@ -9,8 +9,7 @@ namespace EmployeeRegister.Service.Contracts
     public interface IEmployeeService
     {
         Task<EmployeeResponse> GetEmployeeList();
-        Task AddNewEmployee(EmployeeRequest request);
-        Task EditEmployee(EmployeeRequest request);
-        Task<EmployeeResponse> GetEmployeeById(int id);
+        Task AddNewEmployee(Employees request);
+        Task EditEmployee(Employees request); 
     }
 }

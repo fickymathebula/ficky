@@ -1,58 +1,61 @@
-﻿using EmployeeRegister.Domain.Models;
+﻿using AutoMapper;
+using EmployeeRegister.Domain.Models;
 using EmployeeRegister.Infrastructure.Repository;
+using EmployeeRegister.Service.Contracts;
 using EmployeeRegister.Service.ServiceModels;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace EmployeeRegister.Service.Services
 {
-    public class EmployeeService
+    public class EmployeeService : IEmployeeService
     {
         private readonly EmployeeContext dbContext;
+        private IMapper _mapper;
 
-        public Task AddNewEmployee(EmployeeRequest request)
+        public EmployeeService(IMapper mapper)
         {
-            throw new NotImplementedException();
+            _mapper = mapper;
         }
 
-        public void EditEmployee()
+        public async Task AddNewEmployee(ServiceModels.Employees request)
         {
-            Employees employee = new Employees();
+            try
+            {
+                dbContext.Add(request);
+                await dbContext.SaveChangesAsync();
 
-            //try
-            //{
-            //    employee.EmployeeName = request.EmployeeName;
-            //    employee.StaffNumber = request.StaffNumber;
-            //    employee.EmployeeName = request.StaffNumber;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
 
-            //}
-            //catch (Exception ex)
-            //{
+        public async Task EditEmployee(ServiceModels.Employees request)
+        {
+            try
+            {
+                dbContext.Update(request);
+                await dbContext.SaveChangesAsync();
 
-            //}
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
 
         }
 
-        public Task EditEmployee(EmployeeRequest request)
+        public async Task<EmployeeResponse> GetEmployeeList()
         {
-            throw new NotImplementedException();
-        }
-
-        public void EmployeeList()
-        {
-
-        }
-
-        public Task<EmployeeResponse> GetEmployeeById(int id)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task<EmployeeResponse> GetEmployeeList()
-        {
-            throw new NotImplementedException();
+            return new EmployeeResponse()
+            {
+                EmployeeResponseDto = _mapper.Map<List<EmployeeListDto>>(dbContext.Employees.ToList())
+            };
         }
     }
 }

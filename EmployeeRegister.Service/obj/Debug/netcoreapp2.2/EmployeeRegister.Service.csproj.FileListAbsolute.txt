@@ -11,3 +11,17 @@ C:\Users\fmathebu\source\repos\EmployeeRegister\EmployeeRegister.Service\obj\Deb
 C:\Users\fmathebu\source\repos\EmployeeRegister\EmployeeRegister.Service\obj\Debug\netcoreapp2.2\EmployeeRegister.Service.csproj.CopyComplete
 C:\Users\fmathebu\source\repos\EmployeeRegister\EmployeeRegister.Service\obj\Debug\netcoreapp2.2\EmployeeRegister.Service.dll
 C:\Users\fmathebu\source\repos\EmployeeRegister\EmployeeRegister.Service\obj\Debug\netcoreapp2.2\EmployeeRegister.Service.pdb
+C:\Users\Ficky\Documents\GitHub\ficky\EmployeeRegister.Service\bin\Debug\netcoreapp2.2\EmployeeRegister.Service.deps.json
+C:\Users\Ficky\Documents\GitHub\ficky\EmployeeRegister.Service\bin\Debug\netcoreapp2.2\EmployeeRegister.Service.dll
+C:\Users\Ficky\Documents\GitHub\ficky\EmployeeRegister.Service\bin\Debug\netcoreapp2.2\EmployeeRegister.Service.pdb
+C:\Users\Ficky\Documents\GitHub\ficky\EmployeeRegister.Service\bin\Debug\netcoreapp2.2\EmployeeRegister.Domain.dll
+C:\Users\Ficky\Documents\GitHub\ficky\EmployeeRegister.Service\bin\Debug\netcoreapp2.2\EmployeeRegister.Infrastructure.dll
+C:\Users\Ficky\Documents\GitHub\ficky\EmployeeRegister.Service\bin\Debug\netcoreapp2.2\EmployeeRegister.Domain.pdb
+C:\Users\Ficky\Documents\GitHub\ficky\EmployeeRegister.Service\bin\Debug\netcoreapp2.2\EmployeeRegister.Infrastructure.pdb
+C:\Users\Ficky\Documents\GitHub\ficky\EmployeeRegister.Service\obj\Debug\netcoreapp2.2\EmployeeRegister.Service.csprojAssemblyReference.cache
+C:\Users\Ficky\Documents\GitHub\ficky\EmployeeRegister.Service\obj\Debug\netcoreapp2.2\EmployeeRegister.Service.csproj.CoreCompileInputs.cache
+C:\Users\Ficky\Documents\GitHub\ficky\EmployeeRegister.Service\obj\Debug\netcoreapp2.2\EmployeeRegister.Service.AssemblyInfoInputs.cache
+C:\Users\Ficky\Documents\GitHub\ficky\EmployeeRegister.Service\obj\Debug\netcoreapp2.2\EmployeeRegister.Service.AssemblyInfo.cs
+C:\Users\Ficky\Documents\GitHub\ficky\EmployeeRegister.Service\obj\Debug\netcoreapp2.2\EmployeeRegister.Service.csproj.CopyComplete
+C:\Users\Ficky\Documents\GitHub\ficky\EmployeeRegister.Service\obj\Debug\netcoreapp2.2\EmployeeRegister.Service.dll
+C:\Users\Ficky\Documents\GitHub\ficky\EmployeeRegister.Service\obj\Debug\netcoreapp2.2\EmployeeRegister.Service.pdb

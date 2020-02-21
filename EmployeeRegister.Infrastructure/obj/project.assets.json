@@ -1395,27 +1395,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\fmathebu\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\Ficky\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fmathebu\\source\\repos\\EmployeeRegister\\EmployeeRegister.Infrastructure\\EmployeeRegister.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Ficky\\Documents\\GitHub\\ficky\\EmployeeRegister.Infrastructure\\EmployeeRegister.Infrastructure.csproj",
       "projectName": "EmployeeRegister.Infrastructure",
-      "projectPath": "C:\\Users\\fmathebu\\source\\repos\\EmployeeRegister\\EmployeeRegister.Infrastructure\\EmployeeRegister.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\fmathebu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fmathebu\\source\\repos\\EmployeeRegister\\EmployeeRegister.Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\Ficky\\Documents\\GitHub\\ficky\\EmployeeRegister.Infrastructure\\EmployeeRegister.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Ficky\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ficky\\Documents\\GitHub\\ficky\\EmployeeRegister.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\fmathebu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Ficky\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
@@ -1427,8 +1424,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\fmathebu\\source\\repos\\EmployeeRegister\\EmployeeRegister.Domain\\EmployeeRegister.Domain.csproj": {
-              "projectPath": "C:\\Users\\fmathebu\\source\\repos\\EmployeeRegister\\EmployeeRegister.Domain\\EmployeeRegister.Domain.csproj"
+            "C:\\Users\\Ficky\\Documents\\GitHub\\ficky\\EmployeeRegister.Domain\\EmployeeRegister.Domain.csproj": {
+              "projectPath": "C:\\Users\\Ficky\\Documents\\GitHub\\ficky\\EmployeeRegister.Domain\\EmployeeRegister.Domain.csproj"
             }
           }
         }
@@ -1454,16 +1451,10 @@
           }
         },
         "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
+          "net461"
         ],
         "assetTargetFallback": true,
-        "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "warn": true
       }
     }
   }

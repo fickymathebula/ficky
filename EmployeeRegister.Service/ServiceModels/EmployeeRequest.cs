@@ -4,7 +4,7 @@ using System.Text;
 
 namespace EmployeeRegister.Service.ServiceModels
 {
-    public class EmployeeRequest
+    public class Employees
     {
         public string EmployeeName { get; set; }
 
